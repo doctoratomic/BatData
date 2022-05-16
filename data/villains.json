@@ -1,0 +1,142 @@
+[
+    {
+        "name": "Edward Nigma",
+        "alias": "The Riddler",
+        "birthday": "October 1948",
+        "nemesis": "Batman",
+        "powers": "Genius intellect"
+    },
+    {
+        "name": "Viktor Fries",
+        "alias": "Mister Freeze",
+        "birthday": "February 1959",
+        "nemesis": "Batman",
+        "powers": "Freeze gun module, cryo suit"
+    },
+    {
+        "name": "Unknown",
+        "alias": "Joker",
+        "birthday": "April 25, 1940",
+        "nemesis": "Batman",
+        "powers": "Criminal mastermind, expert chemist, insanity"
+    },
+    {
+        "name": "Johnathan Crane",
+        "alias": "Scarecrow",
+        "birthday": "August 1941",
+        "nemesis": "Batman",
+        "powers": "Master psychologist, fear gas"
+    },
+    {
+        "name": "Pamela Isley",
+        "alias": "Poison Ivy",
+        "birthday": "June 1966",
+        "nemesis": "Batman",
+        "powers": "Botanist, genius, seductress, toxin secretion, plant manipulation"
+    },
+    {
+        "name": "Roman Sionis",
+        "alias": "Black Mask",
+        "birthday": "August 1985",
+        "nemesis": "Batman",
+        "powers": "criminal mastermind, expert marksman, hand to hand mastery"
+    },
+    {
+        "name": "Waylon Jones",
+        "alias": "Killer Croc",
+        "birthday": "February 1983",
+        "nemesis": "Batman",
+        "powers": "Enhanced physical ability, reptilian biology and appearance, healing factor"
+    },
+    {
+        "name": "Bane Dorrance",
+        "alias": "Bane",
+        "birthday": "January 1993",
+        "nemesis": "Batman",
+        "powers": "Genius tactician, master at hand to hand, Superhuman physical ability"
+    },
+    {
+        "name": "Basil Karlo",
+        "alias": "Clayface",
+        "birthday": "June 1940",
+        "nemesis": "Batman",
+        "powers": "Shapeshifting, enhanced physical ability, duplication"
+    },
+    {
+        "name": "Floyd Lawton",
+        "alias": "Deadshot",
+        "birthday": "June 1950",
+        "nemesis": "Batman",
+        "powers": "Expert sniper, hand to hand mastery, assassin"
+    },
+    {
+        "name": "Harleen Quinzel",
+        "alias": "Harley Quinn",
+        "birthday": "September 1993",
+        "nemesis": "Batman",
+        "powers": "Trained psychiatrist, gymnast, enhanced physical ability, toxin immunity, weaponized props"
+    },
+    {
+        "name": "Jervis Tetch",
+        "alias": "Mad Hatter",
+        "birthday": "October 1948",
+        "nemesis": "Batman",
+        "powers": "Neuroscientist, genius intellect, mind control tech"
+    },
+    {
+        "name": "Oswald C. Cobblepot",
+        "alias": "Penguin",
+        "birthday": "December 1941",
+        "nemesis": "Batman",
+        "powers": "Head of crime family, skilled combatant, expert swimmer"
+    },
+    {
+        "name": "Harvey Dent",
+        "alias": "Two-Face",
+        "birthday": "August 1942",
+        "nemesis": "Batman",
+        "powers": "Multiple personality disorder, expert of law and criminal justice"
+    },
+    {
+        "name": "Julian G. Day",
+        "alias": "Calendar Man",
+        "birthday": "September 1958",
+        "nemesis": "Batman",
+        "powers": "Genius, master manipulator, ages according to season"
+    },
+    {
+        "name": "Alexander Luthor",
+        "alias": "Lex Luthor",
+        "birthday": "April 1940",
+        "nemesis": "Superman",
+        "powers": "Genius, billionaire, playboy, philanthropist"
+    },
+    {
+        "name": "N/A",
+        "alias": "Bizarro",
+        "birthday": "October 1958",
+        "nemesis": "Superman",
+        "powers": "Superhuman strength, speed, flight, fire breath, ice rays, childlike intellect"
+    },
+    {
+        "name": "Selina Kyle",
+        "alias": "Catwoman",
+        "birthday": "March 1940",
+        "nemesis": "Batman",
+        "powers": "Expert agility, reflexes, nine lives"
+    },
+    {
+        "name": "Hugo Strange",
+        "alias": "Doctor Strange",
+        "birthday": "February 1940",
+        "nemesis": "Batman",
+        "powers": "Master chemist, insane psychologist, genius intellect"
+    },
+    {
+        "name": "N/a",
+        "alias": "Mr. Mxyzptlk",
+        "birthday": "N/a",
+        "nemesis": "Superman",
+        "powers": "Reality manipulation, not bound by laws of physics & nature"
+    }
+]
